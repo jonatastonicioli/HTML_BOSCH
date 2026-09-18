@@ -1,0 +1,4 @@
+    "http.proxyStrictSSL":  false,
+    "http.proxy":  "http://rb-proxy-ca1.bosch.com:8080",
+    "git.enableSmartCommit":  true,
+    "http.proxyAuthorization":  null
